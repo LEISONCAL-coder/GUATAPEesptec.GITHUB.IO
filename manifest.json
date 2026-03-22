@@ -1,0 +1,21 @@
+{
+  "name": "Acta de Inspección",
+  "short_name": "Auditoría PRO",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e0e4e8",
+  "theme_color": "#0a2e50",
+  "description": "Aplicación web profesional para auditoría técnica estructural INVIAS 2022 y NSR-10",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
